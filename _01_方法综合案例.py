@@ -17,7 +17,7 @@ class Game(object):
     def start_game(self):
         print("%s 开始游戏啦..." %self.player_name)
 
-#1.查看游戏的帮助信息
+#1.查看游戏的帮助信息2022.3.18 15:08
 Game.show_help()
 
 #2.查看历史最高分
